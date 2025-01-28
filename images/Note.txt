@@ -1,0 +1,1 @@
+image.png is generated from https://app.recraft.ai/project with the command: anomaly detection with detective and graphs based on mystyle of figure
